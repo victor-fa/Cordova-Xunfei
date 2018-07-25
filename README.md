@@ -91,8 +91,8 @@ cordova platfrom add android@6.4.0 // 请务必安装6.4.0版本
 ![Github](https://raw.githubusercontent.com/victor-fa/Stored-Picture/master/xunfei/10.jpg)
 
 ## 运行效果
-![Github](https://raw.githubusercontent.com/victor-fa/Stored-Picture/master/xunfei/11.jpg)
-![Github](https://raw.githubusercontent.com/victor-fa/Stored-Picture/master/xunfei/12.jpg)
-![Github](https://raw.githubusercontent.com/victor-fa/Stored-Picture/master/xunfei/13.jpg)
+![Github](https://raw.githubusercontent.com/victor-fa/Stored-Picture/master/xunfei/11.png)
+![Github](https://raw.githubusercontent.com/victor-fa/Stored-Picture/master/xunfei/12.png)
+![Github](https://raw.githubusercontent.com/victor-fa/Stored-Picture/master/xunfei/13.png)
 
 `如有疑问，针对本教程，欢迎提问交流`
