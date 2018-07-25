@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-xunfeiListenSpeaking": {
+      "PACKAGE_NAME": "com.example.kdxf"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.example.kdxf"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "com.example.kdxf"
+    }
+  },
+  "dependent_plugins": {}
+}

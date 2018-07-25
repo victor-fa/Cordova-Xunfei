@@ -1,0 +1,26 @@
+{
+  "cordova-plugin-xunfeiListenSpeaking": {
+    "source": {
+      "type": "local",
+      "path": "F:\\CordovaWorkspace\\kdxf\\node_modules\\cordova-plugin-xunfeiListenSpeaking"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-android-permissions": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-android-permissions"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
