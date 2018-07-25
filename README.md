@@ -58,7 +58,7 @@
 替换string.xml下的相应APPID为自己应用的APPID
 ![Github](https://raw.githubusercontent.com/victor-fa/Stored-Picture/master/xunfei/08.jpg)
 ## 创建工程
-#### 创建ionic项目
+#### 创建cordova项目
 ```
 cordova create kdxf com.example.kdxf Hellokdxf
 cd kdxf
@@ -71,7 +71,7 @@ npm install -g plugman
 创建package.json文件
 `打开命令行CD到cordova-plugin-IFlyspeech-maste文件夹下执行如下命令执行如下命令`
 ```
-Plugman createpackagejson D:\study\ionic\cordova-plugin-IFlyspeech-master // 你自己本地里的插件的路径
+Plugman createpackagejson F:\CordovaWorkspace\CordovaXunFeiCollect\cordova-plugin-IFlyspeech-master // 注意：对应绝对路径
 ```
 执行成功后，当前文件夹会多出一个package.json
 ![Github](https://raw.githubusercontent.com/victor-fa/Stored-Picture/master/xunfei/09.jpg)
